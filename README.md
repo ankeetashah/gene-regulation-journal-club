@@ -1,1 +1,1 @@
-# gene-regulation-journal-club
+# Gene Regulation Journal Club
